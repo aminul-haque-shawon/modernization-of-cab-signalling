@@ -1,0 +1,2 @@
+* The proteus project file was created using proteus professionals 8
+* For the purpose of simplification of simulation the server signal was given manually
